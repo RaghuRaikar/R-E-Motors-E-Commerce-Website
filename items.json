@@ -1,0 +1,61 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "Rear Spoiler",
+      "price": 8199,
+      "imgName": "rear_spoiler.png"
+    },
+    {
+      "id": 2,
+      "name": "Turbo Charger",
+      "price": 155145,
+      "imgName": "turbo_charger.png"
+    },
+    {
+      "id": 3,
+      "name": "Car Radiator",
+      "price": 30000,
+      "imgName": "car_radiator.png"
+    },
+    {
+      "id": 4,
+      "name": "Fuel Pump",
+      "price": 16000,
+      "imgName": "fuel_pump.png"
+    },
+    {
+      "id": 5,
+      "name": "Display Unit",
+      "price": 23999,
+      "imgName": "display_unit.png"
+    },
+    {
+      "id": 6,
+      "name": "Racing Steering Wheel",
+      "price": 16999,
+      "imgName": "steering_wheel.png"
+    },
+    {
+      "id": 7,
+      "name": "Racing Seats",
+      "price": 69999,
+      "imgName": "racing_seats.png"
+    },
+    {
+      "id": 8,
+      "name": "Hand Brake",
+      "price": 4999,
+      "imgName": "hand_brake.png"
+    },
+    {
+      "id": 9,
+      "name": "Boost Gauge",
+      "price": 5432,
+      "imgName": "boost_gauge.jpg"
+    }
+  ],
+  "merch": [
+    
+  ]
+}
