@@ -25,15 +25,10 @@ An **e-commerce platform** for aftermarket car parts, built with **Node.js, Expr
 
 ### 1️⃣ Clone the Repository
 
-```sh
-git clone https://github.com/RaghuRaikar/R-E-Motors-E-Commerce-Website.git
+`git clone https://github.com/RaghuRaikar/R-E-Motors-E-Commerce-Website.git  
 cd R-E-Motors-E-Commerce-Website`
 
 ### 2️⃣ Install Dependencies
-
-sh
-
-CopyEdit
 
 `npm install`
 
@@ -41,18 +36,10 @@ CopyEdit
 
 Create a **.env** file and add your **Stripe API keys**:
 
-ini
-
-CopyEdit
-
 `STRIPE_PRIVATE_KEY=your_private_key
 STRIPE_PUBLIC_KEY=your_public_key`
 
 ### 4️⃣ Run the Application
-
-sh
-
-CopyEdit
 
 `node server.js`
 
