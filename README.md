@@ -2,7 +2,7 @@
 
 An **e-commerce platform** for aftermarket car parts, built with **Node.js, Express, and Stripe** for seamless online transactions.
 
-![R-E Motors Landing Page](./path-to-your-image.png)
+![R-E Motors Landing Page](R-E Motors Homepage.png)
 
 ## 🌟 Features
 
