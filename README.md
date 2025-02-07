@@ -25,8 +25,8 @@ An **e-commerce platform** for aftermarket car parts, built with **Node.js, Expr
 
 ### 1️⃣ Clone the Repository
 
-`git clone https://github.com/RaghuRaikar/R-E-Motors-E-Commerce-Website.git  
-cd R-E-Motors-E-Commerce-Website`
+`git clone https://github.com/RaghuRaikar/R-E-Motors-E-Commerce-Website.git`    
+`cd R-E-Motors-E-Commerce-Website`
 
 ### 2️⃣ Install Dependencies
 
